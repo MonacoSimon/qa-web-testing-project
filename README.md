@@ -114,3 +114,15 @@ El sistema presenta un correcto funcionamiento a nivel funcional, pero muestra d
 - Performance evaluada  
 - Seguridad analizada  
 Automatización planificada (pendiente)
+
+
+---
+
+# Verificación del Entorno
+
+El proyecto incluye un script de validación:
+
+```bash
+chmod +x set-up.sh
+./set-up.sh
+```
